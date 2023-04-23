@@ -3,9 +3,7 @@
 clone the repository with
 
 ````
-```
 git clone https://github.com/jaochoo/fingering
-```
 ````
 
 
