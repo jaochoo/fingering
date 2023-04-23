@@ -1,6 +1,6 @@
 # fingerprint authentication
 
-clone the repository with
+clone the repository
 
 ````
 git clone https://github.com/jaochoo/fingering
@@ -9,7 +9,12 @@ git clone https://github.com/jaochoo/fingering
 
 ## Running the program
 
-'flutter pub get'
+Update the Flutter library
+````
+flutter pub get
+````
 
+Run the program
+````
 'flutter run' 
-
+````
