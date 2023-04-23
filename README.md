@@ -9,7 +9,7 @@ git clone https://github.com/jaochoo/fingering
 
 ## Running the program
 
-Update the Flutter library
+Update the dependencies
 ````
 flutter pub get
 ````
